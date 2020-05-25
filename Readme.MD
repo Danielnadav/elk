@@ -1,4 +1,4 @@
-# For this task I chose  to setup Elastic search, Fluentd, Kibana as the infrastructure to collect all logs from #the web servers pods, in this case I used Nginx & Wordpress   
+# For this task I chose  to setup Elastic search, Fluentd, Kibana as the infrastructure to collect all logs from the web servers pods, in this case I used Nginx & Wordpress   
 # To setup full stack of EFK( Elatsicsearch, fluentd, Kibana) on kubernetes please  follow these instructions:
 # git clone  https://github.com/Danielnadav/elk.git  
 # chmod u+x "install.bash & setup.bash" on your machine.
